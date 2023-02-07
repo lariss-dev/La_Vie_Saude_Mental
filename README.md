@@ -14,8 +14,8 @@ Sequelize;
 
 
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-                                                         Colaboradores
+                     Colaboradores
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-                                                   Larissa dos Santos Barbosa
-                                                     Kleverson Alve da silva
-                                                          João Víctor
+                Larissa dos Santos Barbosa
+                  Kleverson Alve da silva
+                      João Víctor
