@@ -22,7 +22,7 @@ routes.get("/pacientes/:id", PacientesController.listarPacienteId)
 routes.post("/pacientes", createPacientesValidation, PacientesController.cadastrarPaciente)
 routes.delete("/pacientes/:id", PacientesController.deletarPaciente)
 routes.put("/pacientes/:id", PacientesController.atualizarPaciente)
-numerosPacientes
+
 routes.post('/login', loginValidation, authController.login)
 
 routes.get('/atendimentos', AtendimentosController.listarAtendimentos)
